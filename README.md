@@ -12,3 +12,9 @@ The autors of the project are:
 
 
 
+![alt text](https://github.com/Marcoscianna/Mapping-and-Navigation-with-Sensor-Data/blob/main/Picture.png)
+
+
+
+
+
